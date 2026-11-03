@@ -257,6 +257,10 @@ docker compose up -d --build
 > 先看效果再下载模型：`docker compose -f docker-compose.yml -f docker-compose.demo.yml up -d`
 > （示例模式会自动写入两条示例纪要，界面、导出、历史检索全部可用。）
 
+## ☁️ 一键部署
+
+[![Deploy on RepoCloud](https://d16t0pc4846x52.cloudfront.net/deploylobe.svg)](https://repocloud.io/details/MeetDo/)
+
 ## 🛠️ 手动安装
 
 一条命令（推荐给不想用 Docker 的用户）：

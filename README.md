@@ -294,6 +294,10 @@ docker compose -f docker-compose.yml -f docker-compose.demo.yml up -d
 Demo mode seeds two example minutes so the UI, exports, and history search are all usable
 without a model.
 
+## One-Click Deploy
+
+[![Deploy on RepoCloud](https://d16t0pc4846x52.cloudfront.net/deploylobe.svg)](https://repocloud.io/details/MeetDo/)
+
 ## Manual setup
 
 One command, for people who would rather not use Docker:
